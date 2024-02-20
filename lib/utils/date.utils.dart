@@ -17,11 +17,3 @@ class DateFormatter {
     return DateFormat('dd/MM/yyyy HH:mm').format(dateTime);
   }
 }
-
-
-// Alexandre Chambu
-// 12:46
-// amanichambu48@gmail.com
-// guillain bisimwa
-// 12:46
-// guillainbisimwa@hotmail.fr
